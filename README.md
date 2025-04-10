@@ -1,2 +1,2 @@
-# mtc-backend-prod
-python code for the terraform course
+#This is a prod env for python
+The owner is Boyan Balev 
